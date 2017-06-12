@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/macedo22/APItest/issues"
   },
+  "dependencies": {
+    "yelp-fusion": "^1.0.3"
+  },
   "homepage": "https://github.com/macedo22/APItest#readme"
 }
