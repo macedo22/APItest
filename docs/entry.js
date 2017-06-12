@@ -4,8 +4,8 @@ const yelp = require('yelp-fusion');
 
 // Place holders for Yelp Fusion's OAuth 2.0 credentials. Grab them
 // from https://www.yelp.com/developers/v3/manage_app
-const clientId = '<YOUR_CLIENT_ID>';
-const clientSecret = '<YOUR_CLIENT_SECRET>';
+const clientId = client_id;
+const clientSecret = client_secret;
 
 const searchRequest = {
   term:'Four Barrel Coffee',
