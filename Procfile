@@ -1,1 +1,1 @@
-web: node /docs/entry.js
+web: node docs/entry.js
